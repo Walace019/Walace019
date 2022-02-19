@@ -7,7 +7,7 @@
 
 
 ### Olá, eu sou o Walace , Seja bem vindo ao meu perfil 👋
-- 🔭 Hoje eu estou focando no conteúdo front end , HTML| CSS | JavaScript| 
+- 🔭 Hoje eu estou focando no conteúdo front end , HTML| CSS | JavaScript | 
 - 🌱 Estou me graduando em Analise e Desenvolvimento de Sistema, e estou em busca de um Estágio/Junior
 - 📫 Contate-me no email : walacesouza18@hotmail.com
 - 😄 Ele/Dele

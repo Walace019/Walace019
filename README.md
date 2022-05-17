@@ -7,15 +7,10 @@
 
 
 ### Olá, eu sou o Walace , Seja bem vindo ao meu perfil 👋
-- 🔭 Hoje eu estou focando no conteúdo front end , HTML| CSS | JavaScript | 
+- 🔭 Estou iniciando minha jornada como um desenvolvedor Front-End | HTML| CSS | JavaScript | 
 - 🌱 Estou me graduando em Analise e Desenvolvimento de Sistema, e estou em busca de um Estágio/Junior
 - 📫 Contate-me no email : walacesouza18@hotmail.com
-- 😄 Ele/Dele
-<div align="center">
-  <a href="https://github.com/Walace019">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walace019&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walace019&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Walace-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Walace-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

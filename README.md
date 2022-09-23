@@ -11,11 +11,7 @@
 - 🌱 Estou me graduando em Analise e Desenvolvimento de Sistema, e estou em busca de um Estágio/Junior
 - 📫 Contate-me no email : walacesouza18@hotmail.com
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Walace-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png">
-  <img align="center" alt="Walace-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Walace-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
   
   ##
   

@@ -7,7 +7,7 @@
 
 
 ### Olá, eu sou o Walace , Seja bem vindo ao meu perfil 👋
-- 🔭 Estou iniciando minha jornada como um desenvolvedor Front-End | HTML| CSS | JavaScript | 
+- 🔭 Desenvolvedor Back-End Java
 - 🌱 Estou me graduando em Analise e Desenvolvimento de Sistema, e estou em busca de um Estágio/Junior
 - 📫 Contate-me no email : walacesouza18@hotmail.com
 

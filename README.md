@@ -8,7 +8,8 @@
 
 ### Olá, eu sou o Walace , Seja bem vindo ao meu perfil 👋
 - 🔭 Desenvolvedor Back-End Java
-- 🌱 Estou me graduando em Analise e Desenvolvimento de Sistema, e estou em busca de um Estágio/Junior
+- 🌱 Graduando-se em Análise e Desenvolvimento de Sistemas
+- 💻 Conhecimento em : Java, SQLServer, Git, Spring
 - 📫 Contate-me no email : walacesouza18@hotmail.com
  
   ##

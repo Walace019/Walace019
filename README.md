@@ -7,10 +7,10 @@
 
 
 ### Olá, eu sou o Walace , Seja bem vindo ao meu perfil 👋
-- 🔭 Desenvolvedor Back-End Java
+- 🔭 Desenvolvedor Full-Stack
 - 🌱 Graduando-se em Análise e Desenvolvimento de Sistemas
-- 💻 Conhecimento em : Java, SQLServer, Git, Springboot
-- 📫 Contate-me no email : walacesouza18@hotmail.com
+- 💻 Conhecimento em : JavaScript, mySQL, Low-Code
+- 📫 Contate-me no email para freelance :) : walacesouza18@hotmail.com
  
   ##
   

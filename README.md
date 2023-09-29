@@ -7,9 +7,9 @@
 
 
 ### Olá, eu sou o Walace , Seja bem vindo ao meu perfil 👋
-- 🔭 Desenvolvedor Full-Stack
+- 🔭 Desenvolvedor Java-Script
 - 🌱 Graduando-se em Análise e Desenvolvimento de Sistemas
-- 💻 Conhecimento em : JavaScript, mySQL, Low-Code
+- 💻 Conhecimento em : JavaScript, mySQL, Node.js, N8N
 - 📫 Contate-me no email para freelance :) : walacesouza18@hotmail.com
  
   ##

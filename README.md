@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor JavaScript e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
+    Sou um desenvolvedor junior apaixonado por criar soluções inovadoras e eficientes. Atualmente, faço parte da equipe na Lume Tech, onde tenho a oportunidade de trabalhar com tecnologias como JavaScript, Node.js, SQL e n8n.
   </p>
   
 </div>
@@ -26,7 +26,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo-650x366.png">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="github" height="35" width="35" src="https://pngimg.com/uploads/github/github_PNG80.png">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 

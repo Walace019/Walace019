@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou um desenvolvedor junior apaixonado por criar soluções inovadoras e eficientes. Atualmente, faço parte da equipe Lume Tech, onde tenho a oportunidade de trabalhar com tecnologias como JavaScript, Node.js, SQL e n8n.
+    Sou um desenvolvedor Javascript Jr. Atualmente, faço parte da equipe Lume Tech, onde tenho a oportunidade de trabalhar com tecnologias como JavaScript, Node.js, SQL/Postgrees e N8N.
   </p>
   
 </div>

@@ -19,9 +19,9 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Atualmente atuo como **Desenvolvedor Backend na Intelect-AI** (anteriormente Lume Tech), construindo e aprimorando chatbots com Inteligência Artificial.
-- 🤖 Especialista em orquestração de fluxos de trabalho de alta eficiência com **N8N**, processamento e preparação de dados para consumo de modelos de IA.
-- 🔌 Experiência sólida no desenvolvimento e consumo de **APIs REST** e **Webhooks**.
+- 💻 Atualmente atuo como **Desenvolvedor Backend na Intelect-AI** (anteriormente Lume Tech), construindo e aprimorando chatbots com Inteligência Artificial[cite: 1].
+- 🤖 Especialista em orquestração de fluxos de trabalho de alta eficiência com **N8N**, processamento e preparação de dados para consumo de modelos de IA[cite: 1].
+- 🔌 Experiência sólida no desenvolvimento e consumo de **APIs REST** e **Webhooks**[cite: 1].
 - 🗄️ Vivência em modelagem, manutenção e otimização de bancos de dados relacionais como **PostgreSQL** e **MySQL**[cite: 1].
 - 📚 Graduado em **Análise e Desenvolvimento de Sistemas** pela UNINTER[cite: 1].
 
@@ -44,21 +44,13 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Walace019&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Walace019&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Walace019&show_icons=true" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walace019&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Walace019&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Walace's GitHub stats" />
 </div>
 
 ---
 
 <div align="center">
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">

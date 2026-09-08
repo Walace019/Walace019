@@ -31,7 +31,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" width="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.8net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="35" width="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="35" width="45" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="35" width="45" alt="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="35" width="45" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35" width="45" alt="Git" />

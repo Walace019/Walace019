@@ -31,20 +31,12 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" width="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="35" width="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.8net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="35" width="45" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="35" width="45" alt="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="35" width="45" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35" width="45" alt="Git" />
   <img src="https://pngimg.com/uploads/github/github_PNG80.png" height="35" width="35" alt="GitHub" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="35" width="45" alt="Linux" />
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Walace019&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Walace's GitHub stats" />
 </div>
 
 ---

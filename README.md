@@ -19,11 +19,11 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Atualmente atuo como **Desenvolvedor Backend na Intelect-AI** (anteriormente Lume Tech), construindo e aprimorando chatbots com Inteligência Artificial[cite: 1].
-- 🤖 Especialista em orquestração de fluxos de trabalho de alta eficiência com **N8N**, processamento e preparação de dados para consumo de modelos de IA[cite: 1].
-- 🔌 Experiência sólida no desenvolvimento e consumo de **APIs REST** e **Webhooks**[cite: 1].
-- 🗄️ Vivência em modelagem, manutenção e otimização de bancos de dados relacionais como **PostgreSQL** e **MySQL**[cite: 1].
-- 📚 Graduado em **Análise e Desenvolvimento de Sistemas** pela UNINTER[cite: 1].
+- 💻 Atualmente atuo como **Desenvolvedor Backend na Intelect-AI** (anteriormente Lume Tech), construindo e aprimorando chatbots com Inteligência Artificial.
+- 🤖 Especialista em orquestração de fluxos de trabalho de alta eficiência com **N8N**, processamento e preparação de dados para consumo de modelos de IA.
+- 🔌 Experiência sólida no desenvolvimento e consumo de **APIs REST** e **Webhooks**.
+- 🗄️ Vivência em modelagem, manutenção e otimização de bancos de dados relacionais como **PostgreSQL** e **MySQL**.
+- 📚 Graduado em **Análise e Desenvolvimento de Sistemas** pela UNINTER.
 
 ---
 
@@ -43,8 +43,4 @@
 
 <div align="center">
   <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <p>Feito com 💚 e JavaScript.</p>
 </div>
